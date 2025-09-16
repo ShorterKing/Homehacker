@@ -12,3 +12,5 @@ Things to make better :
 1.Add DHCP server which can starve and give out DNS and Gateway correctly raw_packet's does not work 
 
 2. Make the captive portal show in the wifi section that it's needed to do soemthign with the wifi
+
+3. Save the index files in /var/www/captiveportal after starting the script also you can't have other things you must inject everything in index.html
