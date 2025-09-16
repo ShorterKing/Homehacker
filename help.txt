@@ -1,0 +1,14 @@
+
+So to use this attack start the bash script it will setup everything don't use or use I don't know yet haven't tested so set 'n' to dns and use raw_packet's dns_server and 
+then after starting dns_server of raw_packet go to bettercap and probe the network find your target and arp spoof on fullduplex and start https.proxy and run it and then arp_spoff the target 
+then target will instatantly start to get caprive portal and his net will die 
+
+
+
+
+
+Things to make better : 
+
+1.Add DHCP server which can starve and give out DNS and Gateway correctly raw_packet's does not work 
+
+2. Make the captive portal show in the wifi section that it's needed to do soemthign with the wifi
